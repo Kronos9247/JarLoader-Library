@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
  *  This file is a part of the Jar-Loader Library (JLL).
  *  The library helps programmer to load runnable jars easily
  *  
- *  The "Jar-Loader Library" is free software: you can redistribute it and/or modify
+ *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
  *  the Free Software Foundation, either version 3 of the License, or
  *  (at your option) any later version.
